@@ -1,0 +1,15 @@
+{
+  "name": "kakashi",
+  "description": "ただのカカシ",
+  "version": "0.1.0",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "frame": true,
+    "title": "ただのカカシですな",
+    "width": 640,
+    "height": 490,
+    "max_width": 640,
+    "max_height": 490
+  }
+}
